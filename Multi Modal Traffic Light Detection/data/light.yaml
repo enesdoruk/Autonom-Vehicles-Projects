@@ -1,0 +1,11 @@
+
+
+
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+train: /home/enes/Desktop/TrafficLight_Detection_yolov5/dataset/train/images/train2017/  
+
+val: /home/enes/Desktop/TrafficLight_Detection_yolov5/dataset/val/images/train2017/  
+
+nc: 3
+
+names: ['stop', 'go', 'warning']
