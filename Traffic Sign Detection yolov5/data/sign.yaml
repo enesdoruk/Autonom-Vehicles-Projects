@@ -1,0 +1,8 @@
+train: C:/Users/ENES DORUK/Desktop/signDetection/dataset/train
+val: C:/Users/ENES DORUK/Desktop/signDetection/dataset/val
+
+nc: 11
+
+# class names
+names: [ serit,dontEnter,dontTurnLeft,dontTurnRight,parking,dontParking,turnLeft,turnRight,station,20Speed,30Speed]
+
